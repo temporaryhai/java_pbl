@@ -1,0 +1,22 @@
+name: smart_commute
+description: A Flutter app for smart commute routes.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_map: ^4.0.0
+  latlong2: ^0.8.0
+  geolocator: ^10.1.0
+  geocoding: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

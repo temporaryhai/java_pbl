@@ -1,0 +1,93 @@
+{
+  "routes": {
+    "Vikram 1": ["Astley Hall", "Bhel Chowk", "Dilaram Chowk", "Jakhan", "Mussoorie Diversion", "Rajpur"],
+    "Vikram 2A": ["Parade Ground", "Sahastradhara"],
+    "Vikram 2B": ["Parade Ground", "Raipur"],
+    "Vikram 3": ["Parade Ground", "Araghar", "Prince Chowk", "Darshanlal Chowk", "Nehru Colony Chowk", "Rispana Pul"],
+    "Vikram 4": ["Rispana Pul", "Kargi Chowk", "ISBT"],
+    "Vikram 5": ["Clement Town", "ISBT", "Saharanpur Chowk", "Railway Station", "Parade Ground" ,"Prince Chowk", "Dilaram Chowk", "Survey Chowk"],
+    "Vikram 6": ["Connaught Place", "Bindal Pul", "Kishan Nagar Chowk", "Kaulagarh"],
+    "Vikram 7": ["Connaught Place", "Kishan Nagar Chowk","Ballupur Chowk","Chakrata Road", "Prem Nagar"],
+    "Vikram 8": ["Survey Chowk", "Seema Dwar"],
+    "Vikram 9": ["Connaught Place", "Bindal Pul", "Kishan Nagar Chowk", "Garhi Cantt"],
+    "eBus 2A": [
+      "ISBT", "Shimla Bypass", "Majra", "ITI Niranjanpur", "Sabji Mandi Chowk",
+      "Patel Nagar Police Station", "Lal Pul", "PNB Patel Nagar", "Matawala Bagh",
+      "Saharanpur Chowk", "Railway Station", "Prince Chowk", "Cyber Police Station",
+      "Tehsil Chowk", "Darshan Lal Chowk", "Clock Tower", "Gandhi Park",
+      "St. Joseph Academy", "Sachiwalaya", "Bhel Chowk", "Dilaram Chowk",
+      "Madhuban Hotel", "Ajanta Chowk", "Survey of India", "NIVH Front Gate",
+      "Jakhan", "Pacific Mall", "Inder Bawa Marg", "Mussoorie Diversion",
+      "Sai Mandir", "Tehri House/GRD", "Rajpur"
+    ],
+    "eBus 2B": [
+      "ISBT", "Shimla Bypass", "Majra", "ITI Niranjanpur", "Sabji Mandi Chowk",
+      "Patel Nagar Police Station", "Lal Pul", "PNB Patel Nagar", "Matawala Bagh",
+      "Saharanpur Chowk", "Railway Station", "Prince Chowk", "Cyber Police Station",
+      "Tehsil Chowk", "Darshan Lal Chowk", "Lansdowne Chowk", "Survey Chowk",
+      "Raipur Chungi", "Sahastradhara Crossing", "Vikas Lok", "Nalapani Chowk",
+      "Shiv Girdhar Nikunj", "Ekta Vihar", "Madhur Vihar", "Mayur Vihar",
+      "Baverly Hill Shalini School", "Amrit Kunj", "Shri Durga Enclave", "SGRR",
+      "Mandakini Vihar", "MDDA Colony", "Aman Vihar", "Touch Wood School",
+      "ATS Tower", "IT Park", "Gujrara Mansingh Road", "Tibetan Colony",
+      "Kirsali Gaon", "Kulhan Gaon", "Pacific Golf", "Sahastradhara"
+    ],
+    "eBus 3": [
+      "Dwara Chowk", "Maldevta Shiv Mandir", "Rajkiya Mahavidyalaya Maldevta",
+      "Donali, Maldevta", "Asthal", "Kesharwala", "Raipur", "Hathi Khana Chowk",
+      "Kichuwala", "Dobhal Chowk", "6 Number Pulia", "Kishan Bhawan", "RTI Bhawan",
+      "Pearl Avenue Hotel", "Ring Road Diversion", "N.W.T College", "Kali Mandir",
+      "DRDO", "Sahastradhara Crossing", "Raipur Chungi", "Survey Chowk",
+      "Lansdowne Chowk", "Darshanlal Chowk", "Clock Tower", "LIC Building",
+      "Bindal Pul", "Yamuna Colony Chowk", "Kishan Nagar Chowk", "IMA Blood Bank",
+      "Ballupur Chowk", "FRI Main Gate", "Panditwari", "Doon Presidency School",
+      "Premnagar", "Uttaranchal University", "Nanda ki Chowki",
+      "Uttarakhand State Women’s Commission", "Uttarakhand Technical University",
+      "Sudhowala", "Hill Grove School", "Jhanjra Hanuman Mandir",
+      "Doon Global School Ayurveda College", "Shivalik Sansthan and Anusandhan Kendra",
+      "Dhulkot Road", "Shiv Mandir Selaqui", "SIDCUL Gate 1"
+    ],
+    "eBus 3A": [
+      "ISBT", "Shimla Bypass", "Majra", "ITI Niranjanpur", "Sabji Mandi Chowk",
+      "Patel Nagar Police Station", "Lal Pul", "PNB Patel Nagar", "Mata Wala Bagh",
+      "Saharanpur Chowk", "Railway Station", "Prince Chowk", "Cyber Police Station",
+      "Tehsil Chowk", "Darshanlal Chowk", "Clock Tower", "Kwality Chowk",
+      "Survey Chowk", "Raipur Chungi", "Sahastradhara Crossing", "DRDO",
+      "Kali Mandir", "N.W.T College", "Ring Road Diversion", "Pearl Avenue Hotel",
+      "RTI Bhawan"
+    ]
+  },
+  "stops": [
+    "6 Number Pulia", "Ajanta Chowk", "Aman Vihar", "Amrit Kunj", "Asthal",
+    "Astley Hall", "ATS Tower", "Ballupur Chowk", "Baverly Hill Shalini School",
+    "Bhel Chowk", "Bindal Pul", "Clement Town", "Clock Tower", "Connaught Place",
+    "Cyber Police Station", "Darshan Lal Chowk", "Dilaram Chowk", "Dobhal Chowk",
+    "Donali, Maldevta", "DRDO", "Dwara Chowk", "Ekta Vihar", "FRI Main Gate",
+    "Gandhi Park", "Garhi Cantt", "Gujrara Mansingh Road", "Hathi Khana Chowk",
+    "Hill Grove School", "IMA Blood Bank", "Inder Bawa Marg", "ISBT",
+    "ITI Niranjanpur", "IT Park", "Jakhan", "Jhanjra Hanuman Mandir", "Kaulagarh",
+    "Kesharwala", "Kichuwala", "Kirsali Gaon", "Kishan Bhawan", "Kishan Nagar Chowk",
+    "Kulhan Gaon", "Kwality Chowk", "Lal Pul", "Lansdowne Chowk", "LIC Building",
+    "Madhuban Hotel", "Madhur Vihar", "Majra", "Maldevta Shiv Mandir",
+    "Mandakini Vihar", "Mata Wala Bagh", "Matawala Bagh", "Mayur Vihar",
+    "MDDA Colony", "Mussoorie Diversion", "N.W.T College", "Nalapani Chowk",
+    "Nanda ki Chowki", "NIVH Front Gate", "Pacific Golf", "Pacific Mall",
+    "Panditwari", "Parade Ground", "Patel Nagar Police Station", "Pearl Avenue Hotel",
+    "PNB Patel Nagar", "Prem Nagar", "Prince Chowk", "Raipur", "Raipur Chungi",
+    "Rajkiya Mahavidyalaya Maldevta", "Rajpur", "Railway Station", "Rispana Pul",
+    "Ring Road Diversion", "Saharanpur Chowk", "Sahastradhara", "Sahastradhara Crossing",
+    "Sachiwalaya", "Sai Mandir", "Seema Dwar", "Seemadwar", "SGRR", "Shimla Bypass",
+    "Shiv Girdhar Nikunj", "Shiv Mandir Selaqui", "Shri Durga Enclave",
+    "SIDCUL Gate 1", "St. Joseph Academy", "Subhash Nagar", "Sudhowala",
+    "Survey Chowk", "Survey of India", "Tehri House/GRD", "Tehsil Chowk",
+    "Tibetan Colony", "Touch Wood School", "Uttaranchal University",
+    "Uttarakhand State Women’s Commission", "Uttarakhand Technical University",
+    "Vikas Lok", "Yamuna Colony Chowk"
+  ],
+  "major_stops": [
+    "ISBT", "Clock Tower", "Prince Chowk", "Saharanpur Chowk", "Ghantaghar",
+    "Rispana Pul", "Kargi Chowk", "Survey Chowk", "Balliwala Chowk", "Ballupur Chowk",
+    "Subhash Nagar", "Araghar", "Rajpur Road", "EC Road", "Raipur", "Tapovan",
+    "Dilaram Bazaar", "Mothrowala Chowk"
+  ]
+}
